@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1553180577 source:c:\users\balogun gift\documents\programming\c program\project101\main.cpp
+	<bits/stdc++.h>
+	<math.h>
+	<iostream>
+	<conio.h>
+	<cstdlib>
+	<stdlib.h>
+	<unistd.h>
+	<windows.h>
+
